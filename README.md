@@ -1,2 +1,4 @@
-# reponew
-mi primer repo
+# titulo
+/mi primer repo
+//miprimera modificacio
+**Elmer Orihuela**
